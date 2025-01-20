@@ -1,4 +1,4 @@
-![logo](https://github.com/Akku83344/Akku83344/blob/main/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg)
+![logo](https://github.com/Akku83344/Akku83344/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akanksha Gupta</h1>
 <h3 align="center">Building the future with code, one project at a time | Problem Solver | C++ & MERN Enthusiast</h3>
 
