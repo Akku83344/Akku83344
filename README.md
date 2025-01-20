@@ -1,3 +1,4 @@
+![logo](https://github.com/Akku83344/Akku83344/blob/main/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg)
 <h1 align="center">Hi 👋, I'm Akanksha Gupta</h1>
 <h3 align="center">Building the future with code, one project at a time | Problem Solver | C++ & MERN Enthusiast</h3>
 
